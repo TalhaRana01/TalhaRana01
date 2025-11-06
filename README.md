@@ -1,14 +1,15 @@
 <!-- 🔷 Top Animated Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Hey%20👋,%20I'm%20Talha%20Rana&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" />
 
-<h3 align="center">🚀 AI Engineer | MERN Stack Developer | Agentic AI & Automation Expert</h3>
-
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B,+I'm+Talha+Rana;AI+Engineer+%7C+Agentic+AI+Developer;MERN+Stack+%7C+Automation+Expert;Building+AI+Workflows+%26+GPT+Agents" alt="Typing SVG" />
 </p>
+
+
+
+<h3 align="center">🚀 AI Engineer | MERN Stack Developer | Agentic AI & Automation Expert</h3>
+
+
 
 
 
@@ -81,6 +82,7 @@
 </p>
 
 ---
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TalhaRana01&theme=tokyo-night)
 
 
 
@@ -96,8 +98,6 @@
 
 ---
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
 <p align="center">
   ⭐️ <b>“Building the Future with AI & Automation”</b> 🚀  
@@ -106,6 +106,14 @@
 
 
 
+
+![Profile views](https://komarev.com/ghpvc/?username=TalhaRana01&label=Profile%20Views&color=0e75b6&style=flat)
+
+
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/TalhaRana01/TalhaRana01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p> -->
+
 ## 🧠 Tech Stack
 
 <p align="center">
@@ -113,16 +121,8 @@
   <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,express,react,nextjs,mongodb,tailwind,typescript,git,github,vscode,postman,docker" />
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=TalhaRana01&label=Profile%20Views&color=0e75b6&style=flat)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TalhaRana01&theme=tokyo-night)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TalhaRana01/TalhaRana01/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-
-
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
 
 
 
