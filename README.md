@@ -117,7 +117,11 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TalhaRana01&theme=tokyo-night)
 
-![snake gif](https://github.com/TalhaRana01/TalhaRana01/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TalhaRana01/TalhaRana01/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+
 
 
 
