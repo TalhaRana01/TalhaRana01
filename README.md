@@ -3,9 +3,11 @@
 
 <h3 align="center">🚀 AI Engineer | MERN Stack Developer | Agentic AI & Automation Expert</h3>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+MERN+Stack+Developer;Agentic+AI+%26+Automation+Expert;Freelancer+%7C+n8n+%7C+LangChain+%7C+CrewAI;Building+AI+Agents+and+Automation+Systems;Let's+Innovate+with+AI+🤖" alt="Typing SVG Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hey+👋,+I'm+Talha+Rana;AI+Engineer+%7C+Agentic+AI+Developer;MERN+Stack+%7C+Automation+Expert;Building+AI+Workflows+%26+GPT+Agents" alt="Typing SVG" />
 </p>
+
 
 ---
 
@@ -107,6 +109,15 @@
   <!-- From skillicons.dev -->
   <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,express,react,nextjs,mongodb,tailwind,typescript,git,github,vscode,postman,docker" />
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=TalhaRana01&label=Profile%20Views&color=0e75b6&style=flat)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TalhaRana01&theme=tokyo-night)
+
+![snake gif](https://github.com/TalhaRana01/Talharana01/blob/output/github-contribution-grid-snake.svg)
+
+
+
 
 
 
